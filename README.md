@@ -1,2 +1,8 @@
-# Crime-Management-System-I
+# Crime-Management-System
 The Crime Management System is a Java-based project that aims to provide an efficient and comprehensive solution for managing and analyzing crime-related data. It is designed to assist law enforcement agencies and investigators in handling crime incidents, maintaining records, generating reports, and analyzing crime patterns.
+Once logged in, administrators can navigate to the crime records section by clicking the corresponding button. This feature enables them to manage and update crime-related information efficiently. They can view, add, edit, and delete crime records as needed, ensuring accurate and up-to-date data storage.
+Additionally, the system provides a complaints button that allows users to submit complaints easily. By clicking this button, individuals can fill out complaint forms, providing details such as the nature of the complaint, time, location, and any relevant evidence. This feature streamlines the process of registering and managing complaints, ensuring prompt and effective handling by law enforcement personnel.
+
+The Crime Management System project provides a comprehensive solution for efficient crime management within law enforcement agencies. With functionalities such as viewing criminal records, editing criminal records, adding new criminals, searching for specific criminals, and viewing all records, the system empowers administrators to effectively handle various aspects of crime management.
+Overall, the Crime Management System project streamlines crime management processes, improves information accessibility, and enhances the overall efficiency of law enforcement agencies. By leveraging the provided operations, administrators can effectively manage criminal records, support investigations, and make informed decisions to maintain public safety and security.
+
